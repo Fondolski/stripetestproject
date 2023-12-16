@@ -1,0 +1,1532 @@
+{
+    "type": "Map",
+    "maps": [{
+     
+        "size": 1.0,
+        "country":"Kenya",
+        "city":"Nairobi",
+        "lat":"-1.286389",
+        "lng": "36.817223"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Kenya",
+        "city":"Mombasa",
+        "lat":"-4.043740",
+        "lng": "39.658871"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Germany",
+        "city":"Berlin",
+        "lat":"52.520008",
+        "lng": "13.404954"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Germany",
+        "city":"Dortmund",
+        "lat":"51.514244",
+        "lng": "7.468429"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Germany",
+        "city":"Leipzig",
+        "lat":"51.340199",
+        "lng": "12.360103"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Germany",
+        "city":"Bremen",
+        "lat":"53.073635",
+        "lng": "8.806422"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Germany",
+        "city":"Stuttgart",
+        "lat":"48.783333",
+        "lng": "9.183333"
+    }, 
+    {
+   
+        "size": 1.0,
+        "country":"Czech",
+        "city":"Prague",
+        "lat":"50.073658",
+        "lng": "14.418540"
+    }, 
+    {
+   
+        "size": 1.0,
+        "country":"Czech",
+        "city":"Ostrava",
+        "lat":"49.820923",
+        "lng": "18.262524"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Poland",
+        "city":"Warsaw",
+        "lat":"52.237049",
+        "lng": "21.017532"
+    }, 
+    {
+   
+        "size": 1.0,
+        "country":"Poland",
+        "city":"Poznan",
+        "lat":"52.409538",
+        "lng": "16.931992"
+    }, 
+    {
+   
+        "size": 1.0,
+        "country":"Poland",
+        "city":"Lublin",
+        "lat":"51.246452",
+        "lng": "22.568445"
+    }, 
+    {
+   
+        "size": 1.0,
+        "country":"Lithuania",
+        "city":"Vilnius",
+        "lat":"54.687157",
+        "lng": "25.279652"
+    }, 
+    {
+   
+        "size": 1.0,
+        "country":"Lithuania",
+        "city":"Kaunas",
+        "lat":"54.898521",
+        "lng": "23.903597"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Latvia",
+        "city":"Riga",
+        "lat":"56.946285",
+        "lng": "24.105078"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Belarus",
+        "city":"Mink",
+        "lat":"53.893009",
+        "lng": "27.567444"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Estonia",
+        "city":"Tallinn",
+        "lat":"59.436962",
+        "lng": "24.753574"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Madrid",
+        "lat":"40.416775",
+        "lng": "-3.703790"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Valencia",
+        "lat":"39.466667",
+        "lng": "-0.375000"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Barcelona",
+        "lat":"41.390205",
+        "lng": "2.154007"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Zaragoza",
+        "lat":"41.649693",
+        "lng": "-0.887712"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Zaragoza",
+        "lat":"41.649693",
+        "lng": "-0.887712"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Seville",
+        "lat":"37.392529",
+        "lng": "-5.994072"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Portugal",
+        "city":"Lisbon",
+        "lat":"38.736946",
+        "lng": "-9.142685"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Portugal",
+        "city":"Braga",
+        "lat":"41.545448",
+        "lng": "-8.426507"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Spain",
+        "city":"Malaga",
+        "lat":"36.719444",
+        "lng": "-4.420000"
+    },
+    
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"Mumbai",
+        "lat":"19.076090",
+        "lng": "72.877426"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Nigeria",
+        "city":"Lagos",
+        "lat":"6.465422",
+        "lng": "3.406448"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Nigeria",
+        "city":"Abuja",
+        "lat":"9.072264",
+        "lng": "7.491302"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Egypt",
+        "city":"Cairo",
+        "lat":"30.033333",
+        "lng": "31.233334"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Paris",
+        "lat":"48.864716",
+        "lng": "2.349014"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Colombia",
+        "city":"Bogota",
+        "lat":"4.624335",
+        "lng": "-74.063644"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Venezuela",
+        "city":"Caracas",
+        "lat":"10.500000",
+        "lng": "-66.916664"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Cuba",
+        "city":"Havana",
+        "lat":"23.113592",
+        "lng": "-82.366592"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Colombia",
+        "city":"Medellin",
+        "lat":"6.230833",
+        "lng": "-75.590553"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Atlanta",
+        "lat":"33.753746",
+        "lng":"-84.386330"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Kansas",
+        "lat":"38.500000",
+        "lng":"-98.000000"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Nevada",
+        "lat":"39.876019",
+        "lng":"-117.224121"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Denver",
+        "lat":"39.742043",
+        "lng":"-104.991531"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Portland",
+        "lat":"45.523064",
+        "lng":"-122.676483"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Montana",
+        "lat":"46.965260",
+        "lng":"-109.533691"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Canada",
+        "city":"Toronto",
+        "lat":"43.651070",
+        "lng":"-79.347015"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Canada",
+        "city":"Montreal",
+        "lat":"45.508888",
+        "lng":"-73.561668"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Canada",
+        "city":"Winnipeg",
+        "lat":"49.895077",
+        "lng":"-97.138451"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Canada",
+        "city":"Vancouver",
+        "lat":"49.246292",
+        "lng":"-123.116226"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Canada",
+        "city":"Yukon",
+        "lat":"64.000000",
+        "lng":"-135.000000"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Washington",
+        "lat":"47.751076",
+        "lng":"-120.740135"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United States",
+        "city":"Houston",
+        "lat":"29.749907",
+        "lng":"-95.358421"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Sao Paulo",
+        "lat":"-23.533773",
+        "lng":"-46.625290"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Argentina",
+        "city":"Cordoba",
+        "lat":"-31.416668",
+        "lng":"-64.183334"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Argentina",
+        "city":"Rosario",
+        "lat":"-32.950001",
+        "lng":"-60.666668"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Argentina",
+        "city":"Bahia Blanca",
+        "lat":"-38.990837",
+        "lng":"-61.260006"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Chile",
+        "city":"Copiapo",
+        "lat":"-27.366360",
+        "lng":"-70.332237"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Chile",
+        "city":"Santiago",
+        "lat":"-33.447487",
+        "lng":"-70.673676"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Uruguay",
+        "city":"Montevideo",
+        "lat":"-34.901112",
+        "lng":"-56.164532"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Salvador",
+        "lat":"-12.974722",
+        "lng":"-38.476665"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Brasilia",
+        "lat":"-15.793889",
+        "lng":"-47.882778"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Manaus",
+        "lat":"-3.117034",
+        "lng":"-60.025780"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ghana",
+        "city":"Kumasi",
+        "lat":"6.700071",
+        "lng":"-1.630783"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ghana",
+        "city":"Accra",
+        "lat":"5.614818",
+        "lng":"-0.205874"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Uganda",
+        "city":"Kampala",
+        "lat":"0.347596",
+        "lng":"32.582520"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Rwanda",
+        "city":"Kigali",
+        "lat":"-1.935114",
+        "lng":"30.082111"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Burundi",
+        "city":"Bujumbura",
+        "lat":"-3.361260",
+        "lng":"29.347916"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Morocco",
+        "city":"Casablanca",
+        "lat":"33.589886",
+        "lng":"-7.603869"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Tunisia",
+        "city":"Tunis",
+        "lat":"36.806389",
+        "lng":"10.181667"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Libya",
+        "city":"Tripoli",
+        "lat":"32.885353",
+        "lng":"13.180161"
+    },{
+   
+        "size": 1.0,
+        "country":"Italy",
+        "city":"Rome",
+        "lat":"41.902782",
+        "lng":"12.496366"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Italy",
+        "city":"Turin",
+        "lat":"45.116177",
+        "lng":"7.742615"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Italy",
+        "city":"Milan",
+        "lat":"45.464664",
+        "lng":"9.188540"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Italy",
+        "city":"Bologna",
+        "lat":"44.498955",
+        "lng":"11.327591"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Italy",
+        "city":"Venice",
+        "lat":"45.438759",
+        "lng":"12.327145"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Lyon",
+        "lat":"45.763420",
+        "lng":"4.834277"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Nantes",
+        "lat":"47.218102",
+        "lng":"-1.552800"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Toulouse",
+        "lat":"43.604500",
+        "lng":"1.444000"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Rennes",
+        "lat":"48.114700",
+        "lng":"-1.679400"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Caen",
+        "lat":"49.180000",
+        "lng":"-0.370000"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Dijon",
+        "lat":"47.316666",
+        "lng":"5.016667"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"France",
+        "city":"Strasbourg",
+        "lat":"48.580002",
+        "lng":"7.750000"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"United Kingdom",
+        "city":"London",
+        "lat":"51.509865",
+        "lng":"-0.118092"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Netherlands",
+        "city":"Amsterdam",
+        "lat":"52.377956",
+        "lng":"4.897070"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Denmark",
+        "city":"Copenhagen",
+        "lat":"55.676098",
+        "lng":"12.568337"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ukraine",
+        "city":"Kyiv",
+        "lat":"50.450001",
+        "lng":"30.523333"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ukraine",
+        "city":"Donetsk",
+        "lat":"48.002777",
+        "lng":"37.805279"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ukraine",
+        "city":"Poltava",
+        "lat":"49.589542",
+        "lng":"34.551273"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Croatia",
+        "city":"Zagreb",
+        "lat":"45.815399",
+        "lng":"15.966568"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Croatia",
+        "city":"Rijeka",
+        "lat":"45.328979",
+        "lng":"14.457664"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Slovenia",
+        "city":"Ljubljana",
+        "lat":"46.056946",
+        "lng":"14.505751"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ukraine",
+        "city":"Dnipro",
+        "lat":"48.450001",
+        "lng":"34.983334"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ukraine",
+        "city":"Kyiv",
+        "lat":"50.450001",
+        "lng":"30.523333"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Finland",
+        "city":"Helsinki",
+        "lat":"60.192059",
+        "lng":"24.945831"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Norway",
+        "city":"Oslo",
+        "lat":"59.911491",
+        "lng":"10.757933"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Sweden",
+        "city":"Stockholm",
+        "lat":"59.334591",
+        "lng":"18.063240"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Austria",
+        "city":"Vienna",
+        "lat":"48.210033",
+        "lng":"16.363449"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Austria",
+        "city":"Graz",
+        "lat":"47.076668",
+        "lng":"15.421371"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Gaziantep",
+        "lat":"37.066666",
+        "lng":"37.383331"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Kayseri",
+        "lat":"38.734802",
+        "lng":"35.467987"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Konya",
+        "lat":"37.874641",
+        "lng":"32.493156"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Antalya",
+        "lat":"36.884804",
+        "lng":"30.704044"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Mersin",
+        "lat":"36.812103",
+        "lng":"34.641479"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Izmir",
+        "lat":"38.423733",
+        "lng":"27.142826"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Bursa",
+        "lat":"40.193298",
+        "lng":"29.074202"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Eskisehir",
+        "lat":"39.766193",
+        "lng":"30.526714"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Turkey",
+        "city":"Batman",
+        "lat":"37.714108",
+        "lng":"41.413166"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Armenia",
+        "city":"Yeravan",
+        "lat":"40.177200",
+        "lng":"44.503490"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Georgia",
+        "city":"Tbilisi",
+        "lat":"41.716667",
+        "lng":"44.783333"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Azerbaijan",
+        "city":"Baku",
+        "lat":"40.409264",
+        "lng":"49.867092"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Azerbaijan",
+        "city":"Barda",
+        "lat":"40.382904",
+        "lng":"47.124996"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Syria",
+        "city":"Damascus",
+        "lat":"33.510414",
+        "lng":"36.278336"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Syria",
+        "city":"Aleppo",
+        "lat":"36.216667",
+        "lng":"37.166668"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Saudia Arabia",
+        "city":"Riyadh",
+        "lat":"24.774265",
+        "lng":"46.738586"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Unite Arab Emirates",
+        "city":"Dubai",
+        "lat":"25.276987",
+        "lng":"55.296249"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iraq",
+        "city":"Baghdad",
+        "lat":"33.312805",
+        "lng":"44.361488"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iraq",
+        "city":"Basrah",
+        "lat":"30.508102",
+        "lng":"47.783489"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iraq",
+        "city":"Erbil",
+        "lat":"36.191113",
+        "lng":"44.009167"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Israel",
+        "city":"Jerusalem",
+        "lat":"31.771959",
+        "lng":"35.217018"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Israel",
+        "city":"Tel Aviv-Yafo",
+        "lat":"32.109333",
+        "lng":"34.855499"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Israel",
+        "city":"Haifa",
+        "lat":"32.794044",
+        "lng":"34.989571"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Israel",
+        "city":"Netanya",
+        "lat":"32.321457",
+        "lng":"34.853195"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Jordan",
+        "city":"Amman",
+        "lat":"31.963158",
+        "lng":"35.930359"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Jordan",
+        "city":"Irbid",
+        "lat":"32.551445",
+        "lng":"35.851479"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Lebanon",
+        "city":"Beirut",
+        "lat":"33.888630",
+        "lng":"35.495480"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Kuwait",
+        "city":"Kuwait City",
+        "lat":"29.378586",
+        "lng":"47.990341"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Qatar",
+        "city":"Doha",
+        "lat":"25.286106",
+        "lng":"51.534817"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Oman",
+        "city":"Muscat",
+        "lat":"23.614328",
+        "lng":"58.545284"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iran",
+        "city":"Tehran",
+        "lat":"35.715298",
+        "lng":"51.404343"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iran",
+        "city":"Isfahan",
+        "lat":"32.661343",
+        "lng":"51.680374"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iran",
+        "city":"Shiraz",
+        "lat":"29.591768",
+        "lng":"52.583698"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iran",
+        "city":"Mashhad",
+        "lat":"36.310699",
+        "lng":"59.599457"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Iran",
+        "city":"Tabriz",
+        "lat":"38.066666",
+        "lng":"46.299999"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Russia",
+        "city":"Moscow",
+        "lat":"55.751244",
+        "lng":"37.618423"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Russia",
+        "city":"Kazan",
+        "lat":"55.796391",
+        "lng":"49.108891"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Russia",
+        "city":"Tyumen",
+        "lat":"57.161297",
+        "lng":"65.525017"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Russia",
+        "city":"Omsk",
+        "lat":"54.983334",
+        "lng":"73.366669"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Russia",
+        "city":"Novosibirsk",
+        "lat":"55.018803",
+        "lng":"82.933952"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Hulun Buir",
+        "lat":"49.220287",
+        "lng":"119.754410"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Afghanistan",
+        "city":"Kabul",
+        "lat":"34.543896",
+        "lng":"69.160652"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Afghanistan",
+        "city":"Kabul",
+        "lat":"34.543896",
+        "lng":"69.160652"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Afghanistan",
+        "city":"Kandahar",
+        "lat":"31.739847",
+        "lng":"65.755920"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Kazakhstan",
+        "city":"Herat",
+        "lat":"34.343044",
+        "lng":"62.199074"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Pakistan",
+        "city":"Karachi",
+        "lat":"24.860966",
+        "lng":"66.990501"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Pakistan",
+        "city":"Lahore",
+        "lat":"31.582045",
+        "lng":"74.329376"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Pakistan",
+        "city":"Islambad",
+        "lat":"33.738045",
+        "lng":"73.084488"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"Mumbai",
+        "lat":"19.076090",
+        "lng":"72.877426"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"New Delhi",
+        "lat":"28.644800",
+        "lng":"77.216721"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"Bengaluru",
+        "lat":"12.971599",
+        "lng":"77.594566"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"Nagpur",
+        "lat":"21.146633",
+        "lng":"79.088860"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"Kolkata",
+        "lat":"22.572645",
+        "lng":"88.363892"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"India",
+        "city":"Punjab",
+        "lat":"30.752087",
+        "lng":"75.604805"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Indonesia",
+        "city":"Jakarat",
+        "lat":"-6.200000",
+        "lng":"106.816666"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Indonesia",
+        "city":"Surabaya",
+        "lat":"-7.250445",
+        "lng":"112.768845"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Nepal",
+        "city":"kathmandu",
+        "lat":"27.700769",
+        "lng":"85.300140"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Baglandesh",
+        "city":"Dhaka",
+        "lat":"23.777176",
+        "lng":"90.399452"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Thailand",
+        "city":"Bangkok",
+        "lat":"13.736717",
+        "lng":"100.523186"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Laos",
+        "city":"Vientiane",
+        "lat":"17.974855",
+        "lng":"102.630867"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Myanmar",
+        "city":"Mandalay",
+        "lat":"21.954510",
+        "lng":"96.093292"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Cambodia",
+        "city":"Phnom Penh",
+        "lat":"11.562108",
+        "lng":"104.888535"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Vietnam",
+        "city":"Ho Chi Minh City",
+        "lat":"10.762622",
+        "lng":"106.660172"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Vietnam",
+        "city":"Hanoi",
+        "lat":"21.028511",
+        "lng":"105.804817"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Taiwan",
+        "city":"Taipei",
+        "lat":"25.105497",
+        "lng":"121.597366"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Japan",
+        "city":"Tokyo",
+        "lat":"35.652832",
+        "lng":"139.839478"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Philippines",
+        "city":"Manil",
+        "lat":"14.599512",
+        "lng":"120.984222"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Singapore",
+        "city":"Singapore",
+        "lat":"1.290270",
+        "lng":"103.851959"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Malaysia",
+        "city":"Kuala Lumpur",
+        "lat":"3.140853",
+        "lng":"101.693207"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Indonesia",
+        "city":"Medan",
+        "lat":"3.597031",
+        "lng":"98.678513"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Wuhan",
+        "lat":"30.596069",
+        "lng":"114.297691"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Tibet",
+        "lat":"29.652491",
+        "lng":"91.172112"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Kunming",
+        "lat":"25.043333",
+        "lng":"102.706108"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Beijing",
+        "lat":"39.916668",
+        "lng":"116.383331"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Guangdong",
+        "lat":"23.128994",
+        "lng":"113.253250"
+    },
+    
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Changchun",
+        "lat":"43.891262",
+        "lng":"125.331345"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"China",
+        "city":"Shanghai",
+        "lat":"31.224361",
+        "lng":"121.469170"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Japan",
+        "city":"Sappporo",
+        "lat":"43.066666",
+        "lng":"141.350006"
+    },{
+   
+        "size": 1.0,
+        "country":"Zambia",
+        "city":"Lusaka",
+        "lat":"-15.416667",
+        "lng":"28.283333"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Angola",
+        "city":"Luanda",
+        "lat":"-8.838333",
+        "lng":"13.234444"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Zimbabwe",
+        "city":"Harare",
+        "lat":"-17.824858",
+        "lng":"31.053028"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"South Africa",
+        "city":"Cape Town",
+        "lat":"-33.918861",
+        "lng":"18.423300"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"South Africa",
+        "city":"Pretoria",
+        "lat":"-25.731340",
+        "lng":"28.218370"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Malawi",
+        "city":"Lilongwe",
+        "lat":"13.9626",
+        "lng":"33.7741"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Madagascar",
+        "city":"Antananarivo",
+        "lat":"18.9185",
+        "lng":"47.5211"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Ethiopia",
+        "city":"Addis Ababa",
+        "lat":"9.005401",
+        "lng":"38.763611"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"South Sudan",
+        "city":"Juba",
+        "lat":"4.859363",
+        "lng":"31.571251"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Sudan",
+        "city":"Khartoum",
+        "lat":"15.508457",
+        "lng":"32.522854"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"South Korea",
+        "city":"Seoul",
+        "lat":"37.532600",
+        "lng":"127.024612"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Japan",
+        "city":"Osaka",
+        "lat":"34.672314",
+        "lng":"135.484802"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Australia",
+        "city":"Sydney",
+        "lat":"-33.865143",
+        "lng":"151.209900"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Australia",
+        "city":"Perth",
+        "lat":"-31.953512",
+        "lng":"115.857048"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Australia",
+        "city":"Adelaide",
+        "lat":"-34.921230",
+        "lng":"138.599503"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Australia",
+        "city":"Brisbane",
+        "lat":"-34.921230",
+        "lng":"138.599503"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"New Zealand",
+        "city":"Auckland",
+        "lat":"-36.848461",
+        "lng":"174.763336"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"New Zealand",
+        "city":"Wellington",
+        "lat":"-41.276825",
+        "lng":"174.777969"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Fiji",
+        "city":"Suva",
+        "lat":"-18.141600",
+        "lng":"178.441895"
+    }]
+    
+}
