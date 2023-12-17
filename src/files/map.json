@@ -396,6 +396,110 @@
     {
    
         "size": 1.0,
+        "country":"Brazil",
+        "city":"Santarem",
+        "lat":"-2.504264",
+        "lng":"-54.954643"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Imeratriz",
+        "lat":"-5.52639",
+        "lng":"-47.49167"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Floriano",
+        "lat":"-6.76694",
+        "lng":"-43.0225"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Picos",
+        "lat":"-7.07694",
+        "lng":"-41.46694"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Grajau",
+        "lat":"-5.81944",
+        "lng":"-46.13861"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Paragominas",
+        "lat":"-2.96667",
+        "lng":"-47.48333"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Bolivia",
+        "city":"Cochabamba",
+        "lat":"-17.413977",
+        "lng":"-66.165321"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Bolivia",
+        "city":"Sucre",
+        "lat":"-19.019585",
+        "lng":"-65.261963"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Bolivia",
+        "city":"Tarija",
+        "lat":"-21.521383",
+        "lng":"-64.728096"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Bolivia",
+        "city":"La paz",
+        "lat":"-16.489689",
+        "lng":"-68.119293"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Araguania",
+        "lat":"-7.19111",
+        "lng":"-48.20722"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Tucurui",
+        "lat":"-3.76585",
+        "lng":"-49.67923"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Balsas",
+        "lat":"-7.5325",
+        "lng":"-46.03556"
+    },
+    {
+   
+        "size": 1.0,
         "country":"Argentina",
         "city":"Cordoba",
         "lat":"-31.416668",
@@ -436,6 +540,30 @@
     {
    
         "size": 1.0,
+        "country":"Peru",
+        "city":"Cusco",
+        "lat":"-13.529427",
+        "lng":"-71.984978"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Peru",
+        "city":"Lima",
+        "lat":"-12.046374",
+        "lng":"-77.042793"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Peru",
+        "city":"Trujillo",
+        "lat":"-8.11599",
+        "lng":"-79.02998"
+    },
+    {
+   
+        "size": 1.0,
         "country":"Uruguay",
         "city":"Montevideo",
         "lat":"-34.901112",
@@ -472,6 +600,22 @@
         "city":"Kumasi",
         "lat":"6.700071",
         "lng":"-1.630783"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Belem",
+        "lat":"-1.455833",
+        "lng":"-48.503887"
+    },
+    {
+   
+        "size": 1.0,
+        "country":"Brazil",
+        "city":"Macapa",
+        "lat":"0.035574",
+        "lng":"-51.070534"
     },
     {
    

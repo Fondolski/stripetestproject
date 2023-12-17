@@ -6,7 +6,7 @@ import ThreeSection from '../ThreeSection/ThreeSection'
 
 export default function ThreeBody() {
 
-   
+   //3D cancas
   
     return (
       <div className="h-screen w-full">
